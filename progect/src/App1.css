@@ -1,0 +1,147 @@
+.element1 {
+  width:360px;
+  height:640px;
+  border:10px black;
+}
+
+.fzbyllaykszqr {
+  color: #ba5a23;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 80px;
+  font-family: Inter, Arial;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 24px;
+  display: flex;
+}
+
+.rectangle-80 {
+  color: #000;
+  width: 30%;
+  background-color: #f0ae87;
+  border-radius: 11px;
+  flex-direction: row;
+  flex-basis: 16%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 6px;
+  margin-left: 3px;
+  padding-top: 1px;
+  font-size: .6rem;
+  font-weight: 400;
+  line-height: 15px;
+  display: flex;
+}
+
+.tczeqbpyptqnp {
+  margin-top: 1px;
+}
+
+.wcsossnpudhrj {
+  margin-top: 1px;
+  font-size: 1.2rem;
+  font-weight: 900;
+  line-height: 29px;
+}
+
+.flex-container {
+  width: 60%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.flex-container-1 {
+  height: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 15px;
+  display: flex;
+}
+
+.ellipse-18 {
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+  margin-right: -5px;
+}
+
+.pngegg-2 {
+  width: 25px;
+  height: 27px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  margin-left: -5px;
+}
+
+.lmzrqtrsjpimq {
+  margin-bottom: 1px;
+  margin-left: 15px;
+}
+
+.flex-container-2 {
+  width: 50%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.flex-container-3 {
+  height: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 18px;
+  display: flex;
+}
+
+.ellipse-19 {
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+  margin-right: -4px;
+}
+
+.pngegg-1-2 {
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 1px;
+  margin-left: -4px;
+}
+
+.ullejfphnewqd {
+  margin-top: 1px;
+  margin-left: 18px;
+}
+
+.flex-container-4 {
+  width: 55%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 73px;
+  display: flex;
+}
+
+.ellipse-191 {
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+
+.gldsrxqwxeccl {
+  margin-top: 1px;
+}
