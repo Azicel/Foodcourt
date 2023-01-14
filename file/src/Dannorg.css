@@ -1,0 +1,134 @@
+.objlmbjweipha {
+    color: #818080;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    padding-top: 17px;
+    padding-left: 15px;
+    padding-right: 3px;
+    font-family: Inter, Arial;
+    font-size: .75rem;
+    font-weight: 500;
+    line-height: 18px;
+    display: flex;
+  }
+  
+  .flex-container {
+    color: #ba5a23;
+    width: 90%;
+    flex-direction: row;
+    flex-basis: 10%;
+    justify-content: space-between;
+    align-self: center;
+    align-items: stretch;
+    margin-bottom: 22px;
+    font-size: 1rem;
+    font-weight: 900;
+    line-height: 24px;
+    display: flex;
+  }
+  
+  .flex-container-1 {
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    display: flex;
+  }
+  
+  .jgtbtcpdvehgn {
+    width: 22px;
+    height: 22px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .ellipse-18 {
+    width: 59px;
+    height: 59px;
+    object-fit: cover;
+  }
+  
+  .dkbngmtwgivwg {
+    margin-bottom: 4px;
+    margin-left: 10px;
+  }
+  
+  .rectangle-37 {
+    width: 90%;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    border-radius: 10px;
+    flex-direction: row;
+    flex-basis: 5%;
+    justify-content: flex-start;
+    align-self: center;
+    align-items: stretch;
+    margin-bottom: 14px;
+    display: flex;
+  }
+  
+  .jhsxceqrksttz {
+    margin-bottom: 4px;
+    margin-left: 10px;
+  }
+  
+  .rectangle-37-1 {
+    width: 90%;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    border-radius: 10px;
+    flex-direction: row;
+    flex-basis: 5%;
+    justify-content: flex-start;
+    align-self: center;
+    align-items: stretch;
+    margin-bottom: 14px;
+    display: flex;
+  }
+  
+  .whhwzxbaksrse {
+    margin-bottom: 6px;
+    margin-left: 10px;
+  }
+  
+  .rectangle-37-2 {
+    width: 90%;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    border-radius: 10px;
+    flex-direction: row;
+    flex-basis: 14%;
+    justify-content: flex-start;
+    align-self: center;
+    align-items: stretch;
+    margin-bottom: 223px;
+    display: flex;
+  }
+  
+  .rectangle-48 {
+    color: #fff;
+    width: 90%;
+    background-color: #fc833d;
+    border: none;
+    border-radius: 11px;
+    flex-direction: row;
+    flex-basis: 7%;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    padding-top: 1px;
+    font-family: Inter, Arial;
+    font-size: .8rem;
+    font-weight: 500;
+    line-height: 19px;
+    display: flex;
+  }
+  
+  .gmqgpeonqrzao {
+    margin-top: 1px;
+  }
